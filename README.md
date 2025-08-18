@@ -31,8 +31,7 @@ The 'Trophy' and 'Code' icons give it a nice visual touch without being too flas
 *   🌌 **The Next Frontier:** Tinkering with quantum circuits and exploring future computing paradigms, a passion sparked by my time at the **CDAC Summer training and IBM Qiskit Summer School**.
 *   📚 **Reading Books:** Reading few books on designing Data Intensive Apps and Computer Systems, how they works. 🤔🧐
 
-
-    --
+---
 
 <!--
 This section is your "Proof of Work". We'll feature just a few of your top projects.
