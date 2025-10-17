@@ -20,13 +20,13 @@ As a Developer Relations advocate, I bring experience in technical writing and c
 
 ---
 
-<h3 align="left">Projects</h3>
+<h3 align="left">Highligted Projects</h3>
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="left"><a href="https://lifeweeks.vercel.app/">LifeWeeks</a></h4>
+      <h4 align="left"><a href="https://lifeweeks.vercel.app/">LifeWeeks - Your Life in 4000 Weeks</a></h4>
       <p align="left">
-        Visualizes your life in weeks. Won Inter-IIT Anveshan Hackathon.
+        Visualizes your life in weeks. Won Masai School x Inter-IIT Anveshan Hackathon.
       </p>
       <p align="left">
         <a href="https://github.com/p4r1ch4y/FunctionForce_LifeInWeeks"><img src="https://img.shields.io/badge/Code-View_on_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repo"></a>
@@ -35,9 +35,9 @@ As a Developer Relations advocate, I bring experience in technical writing and c
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="left"><a href="https://github.com/p4r1ch4y/smart_city_os">Smart City OS</a></h4>
+      <h4 align="left"><a href="https://github.com/p4r1ch4y/smart_city_os">Smart City OS - A Modern Smart City Management App</a></h4>
       <p align="left">
-        Tools & platform for smarter cities.
+        Tools & platform for smarter connected cities.
       </p>
       <p align="left">
         <a href="https://github.com/p4r1ch4y/smart_city_os"><img src="https://img.shields.io/badge/Code-View_on_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repo"></a>
