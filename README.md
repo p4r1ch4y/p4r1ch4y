@@ -1,4 +1,4 @@
-### Hi, I'm Subrata 👋
+### Hey there, I'm Subrata 👋
 
 <p align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60px" alt="Waving Hand">
