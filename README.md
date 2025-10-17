@@ -6,6 +6,10 @@
 
 I'm a CSE student at IIT Guwahati who enjoys building useful things and learning how tech works. I started with Android mods and EE, and now I spend most of my time working with web tech, systems programming (Rust, C++, SQL), and exploring secure open-source software.
 
+I thrive on exploring new technologies and enjoy building, breaking, and learning from them.
+
+As a Developer Relations advocate, I bring experience in technical writing and community management, helping bridge the gap between devs and exciting projects.
+
 ---
 
 <h3 align="left">Currently Learning</h3>
