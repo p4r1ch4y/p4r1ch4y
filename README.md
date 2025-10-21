@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60px" alt="Waving Hand">
 </p>
 
-I'm a CSE student at IIT Guwahati who enjoys building useful things and learning how tech works. I started with Android mods and EE, and now I spend most of my time working with web tech, systems programming (Rust, C++, SQL), and exploring secure open-source software.
+  I'm a CSE student at IIT Guwahati who enjoys building useful things and learning how tech works. 
+  
+  I started with Android mods and EE, and now I spend most of my time working with web tech, systems programming (Rust, C++, SQL), and exploring secure open-source software.
 
 I thrive on exploring new technologies and enjoy building, breaking, and learning from them.
 
@@ -12,9 +14,19 @@ As a Developer Relations advocate, I bring experience in technical writing and c
 
 ---
 
+<h3 align="left">Tech Stack</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,cpp,rust,postgresql,nodejs,react,git,linux" alt="Tech Stack" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4r1ch4y&layout=compact&hide=cmake,shell&langs_count=6&theme=dracula" alt="Top Languages">
+</p>
+
+---
+
 <h3 align="left">Currently Learning</h3>
 <ul>
-  <li>🔒 Secure software & Rust Security</li>
+  <li>🔒 Secure software development & Rust Security</li>
   <li>💻 Building full-stack apps</li>
 </ul>
 
